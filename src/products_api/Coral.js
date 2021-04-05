@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Test() {
+function Coral() {
     return (
         <div>
-            <h1>TEST2</h1>
+            <h1>CORAL</h1>
         </div>
     )
 }
 
-export default Test
+export default Coral

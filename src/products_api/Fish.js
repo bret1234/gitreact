@@ -1,11 +1,11 @@
 import React from 'react'
 
-function Test() {
+function Fish() {
     return (
         <div>
-            <h1>TEST2</h1>
+            <h1>FISH</h1>
         </div>
     )
 }
 
-export default Test
+export default Fish
