@@ -3,7 +3,7 @@ import React from 'react'
 function Coral() {
     return (
         <div>
-            <h1>CORAL</h1>
+            <h1>CORALS</h1>
         </div>
     )
 }
